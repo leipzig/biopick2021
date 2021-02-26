@@ -1,265 +1,264 @@
 # biopick2021
 
-Number of entrants for each ticket for [Biopick2021](https://twitter.com/hashtag/Biopick2021)
-|ticker | freq|
-|:------|----:|
-|PAVM   |   58|
-|ONCT   |   52|
-|AFMD   |   31|
-|SIOX   |   18|
-|XAIR   |   18|
-|PDSB   |   13|
-|ADAP   |   12|
-|APTO   |   12|
-|CRIS   |   11|
-|CYCC   |   11|
-|LPTX   |   11|
-|SGMO   |   11|
-|KALA   |   10|
-|TCON   |   10|
-|TRIL   |   10|
-|KPTI   |    9|
-|NWBO   |    9|
-|ANVS   |    8|
-|ARWR   |    8|
-|MREO   |    8|
-|PIRS   |    8|
-|TGTX   |    8|
-|VBIV   |    8|
-|XERS   |    8|
-|ATNM   |    7|
-|BCRX   |    7|
-|BNGO   |    7|
-|EVFM   |    7|
-|DMAC   |    6|
-|GRTS   |    6|
-|HEPA   |    6|
-|IMTX   |    6|
-|MDNA   |    6|
-|PHIO   |    6|
-|BNTC   |    5|
-|CALA   |    5|
-|CLRB   |    5|
-|LIFE   |    5|
-|ZIOP   |    5|
-|ALRN   |    4|
-|AUPH   |    4|
-|BCYC   |    4|
-|CERC   |    4|
-|CLSD   |    4|
-|CNCE   |    4|
-|HGEN   |    4|
-|KZIA   |    4|
-|MEIP   |    4|
-|SESN   |    4|
-|VTVT   |    4|
-|ABUS   |    3|
-|ASLN   |    3|
-|ATHX   |    3|
-|AVDL   |    3|
-|AXSM   |    3|
-|BCLI   |    3|
-|BLRX   |    3|
-|BLU    |    3|
-|CAPR   |    3|
-|CLBS   |    3|
-|CLPT   |    3|
-|CTMX   |    3|
-|CYCN   |    3|
-|CYDY   |    3|
-|DCTH   |    3|
-|EPIX   |    3|
-|FATE   |    3|
-|GMDA   |    3|
-|GNCA   |    3|
-|GNPX   |    3|
-|LCTX   |    3|
-|MGTA   |    3|
-|PGEN   |    3|
-|PSNL   |    3|
-|RGLS   |    3|
-|SRNE   |    3|
-|TYME   |    3|
-|VSTM   |    3|
-|VTGN   |    3|
-|ABEO   |    2|
-|ACET   |    2|
-|ACHV   |    2|
-|ALGS   |    2|
-|ALNA   |    2|
-|ALPN   |    2|
-|ALT    |    2|
-|AMPE   |    2|
-|ARDX   |    2|
-|ARMP   |    2|
-|BLCM   |    2|
-|BXRX   |    2|
-|CANF   |    2|
-|CATB   |    2|
-|CFRX   |    2|
-|CMLF   |    2|
-|CMRX   |    2|
-|CRDF   |    2|
-|CRTPF  |    2|
-|DMTK   |    2|
-|EARS   |    2|
-|EIGR   |    2|
-|ELDN   |    2|
-|ETTX   |    2|
-|FSTX   |    2|
-|HARP   |    2|
-|IBIO   |    2|
-|IDRA   |    2|
-|IFRX   |    2|
-|IMMP   |    2|
-|IVA    |    2|
-|KTRA   |    2|
-|LGVW   |    2|
-|LQDA   |    2|
-|LXRX   |    2|
-|LYRA   |    2|
-|MGEN   |    2|
-|MMEDF  |    2|
-|MRKR   |    2|
-|NBSE   |    2|
-|NGENF  |    2|
-|OBSV   |    2|
-|OPGN   |    2|
-|PHAR   |    2|
-|PLX    |    2|
-|PYNKF  |    2|
-|QTNT   |    2|
-|RIGL   |    2|
-|SAVA   |    2|
-|SEEL   |    2|
-|SLDB   |    2|
-|SNGX   |    2|
-|SYBX   |    2|
-|TCDA   |    2|
-|TTOO   |    2|
-|VINC   |    2|
-|VKTX   |    2|
-|VRNA   |    2|
-|VXRT   |    2|
-|XBIO   |    2|
-|XXII   |    2|
-|ABIO   |    1|
-|ACIU   |    1|
-|ADMA   |    1|
-|ADMS   |    1|
-|ALBO   |    1|
-|ALDX   |    1|
-|AMRN   |    1|
-|AMRS   |    1|
-|AMRX   |    1|
-|ANIP   |    1|
-|APLS   |    1|
-|APRE   |    1|
-|APTX   |    1|
-|ARVN   |    1|
-|ATHA   |    1|
-|ATNF   |    1|
-|AVCO   |    1|
-|AVIR   |    1|
-|BCEL   |    1|
-|BDTX   |    1|
-|BEAM   |    1|
-|BIOC   |    1|
-|BLPH   |    1|
-|BMRN   |    1|
-|BTAI   |    1|
-|BYSI   |    1|
-|CASI   |    1|
-|CBIO   |    1|
-|CDTX   |    1|
-|CLOV   |    1|
-|CNSP   |    1|
-|COCP   |    1|
-|CRMD   |    1|
-|CRSP   |    1|
-|CTIC   |    1|
-|CTSO   |    1|
-|CVAC   |    1|
-|CWBR   |    1|
-|CYTK   |    1|
-|CYTR   |    1|
-|DARE   |    1|
-|DRRX   |    1|
-|DTIL   |    1|
-|EOLS   |    1|
-|EPGNF  |    1|
-|EVGN   |    1|
-|EVLO   |    1|
-|EXEL   |    1|
-|EYPT   |    1|
-|GERN   |    1|
-|GRAY   |    1|
-|GRTX   |    1|
-|GTHX   |    1|
-|HAACU  |    1|
-|HOOK   |    1|
-|HRTX   |    1|
-|IMGN   |    1|
-|INFI   |    1|
-|JNCE   |    1|
-|KDMN   |    1|
-|KRYS   |    1|
-|LMNL   |    1|
-|LPCN   |    1|
-|LTRN   |    1|
-|MBIO   |    1|
-|MDXG   |    1|
-|MGNX   |    1|
-|MGTX   |    1|
-|MITO   |    1|
-|MNKD   |    1|
-|MTP    |    1|
-|MYOV   |    1|
-|NBIX   |    1|
-|NCNA   |    1|
-|NNOX   |    1|
-|NTEC   |    1|
-|NVTA   |    1|
-|OCUL   |    1|
-|OCUP   |    1|
-|ODT    |    1|
-|ODX    |    1|
-|OMER   |    1|
-|ONCS   |    1|
-|ONCY   |    1|
-|ORMP   |    1|
-|ORPH   |    1|
-|OTIC   |    1|
-|PBLA   |    1|
-|PCSA   |    1|
-|PLXP   |    1|
-|PPBT   |    1|
-|PROG   |    1|
-|PRQR   |    1|
-|PRVB   |    1|
-|PTGX   |    1|
-|QURE   |    1|
-|RAFA   |    1|
-|RCUS   |    1|
-|RUBY   |    1|
-|SCYX   |    1|
-|SDC    |    1|
-|SDGR   |    1|
-|SLN    |    1|
-|SPHRY  |    1|
-|SPPI   |    1|
-|SRRA   |    1|
-|STSA   |    1|
-|SURF   |    1|
-|SYRS   |    1|
-|TFFP   |    1|
-|THMO   |    1|
-|THTX   |    1|
-|TLSA   |    1|
-|TRIB   |    1|
-|TRVN   |    1|
-|YMTX   |    1|
-|YTEN   |    1|
+Percent of original price and number of entrants for each ticket for [Biopick2021](https://twitter.com/hashtag/Biopick2021)
+
+|ticker | nrml_price| freq|
+|:------|----------:|----:|
+|SAVA   |  738.64597|    2|
+|ANVS   |  345.76687|    8|
+|GRTS   |  330.71253|    6|
+|EOLS   |  308.12500|    1|
+|YTEN   |  262.22597|    1|
+|CYTR   |  250.00000|    1|
+|DMTK   |  230.49845|    2|
+|CRMD   |  223.30623|    1|
+|EPIX   |  213.86800|    3|
+|LXRX   |  211.36364|    2|
+|CMRX   |  210.71429|    2|
+|SESN   |  209.84848|    4|
+|AMRS   |  208.68946|    1|
+|SEEL   |  207.53425|    2|
+|PDSB   |  206.57895|   13|
+|ORMP   |  204.82759|    1|
+|PAVM   |  196.47577|   58|
+|ARMP   |  188.74172|    2|
+|OBSV   |  184.27948|    2|
+|AVIR   |  184.04154|    1|
+|SYBX   |  183.63636|    2|
+|ASLN   |  183.33333|    3|
+|CMLF   |  181.95348|    2|
+|RAFA   |  180.81250|    1|
+|PCSA   |  179.33635|    1|
+|XXII   |  176.85185|    2|
+|ATNF   |  176.49402|    1|
+|ALDX   |  174.27259|    1|
+|MRKR   |  174.14966|    2|
+|INFI   |  167.48768|    1|
+|ZIOP   |  167.37589|    5|
+|CAPR   |  166.84492|    3|
+|CRTPF  |  165.88785|    2|
+|IBIO   |  165.57377|    2|
+|TTOO   |  164.66165|    2|
+|OCUP   |  164.00000|    1|
+|MNKD   |  163.97516|    1|
+|TYME   |  163.43284|    3|
+|JNCE   |  161.74298|    1|
+|EVFM   |  160.39216|    7|
+|ONCY   |  159.40171|    1|
+|CLPT   |  159.05201|    3|
+|KTRA   |  156.81818|    2|
+|SRNE   |  155.72843|    3|
+|ACHV   |  154.43038|    2|
+|ALRN   |  154.28571|    4|
+|OMER   |  152.54821|    1|
+|CNSP   |  152.54237|    1|
+|TRIB   |  151.80055|    1|
+|ALT    |  150.74744|    2|
+|DARE   |  150.38168|    1|
+|BCRX   |  150.27100|    7|
+|SPHRY  |  149.57265|    1|
+|PYNKF  |  148.71795|    2|
+|NBSE   |  145.71429|    2|
+|MEIP   |  144.04332|    4|
+|AMRN   |  143.73757|    1|
+|BXRX   |  142.57426|    2|
+|BNGO   |  141.94444|    7|
+|ACIU   |  141.16541|    1|
+|IMGN   |  141.07692|    1|
+|ONCT   |  140.76305|   52|
+|PLX    |  140.50279|    2|
+|CERC   |  139.01515|    4|
+|RUBY   |  137.95620|    1|
+|THMO   |  137.89954|    1|
+|BIOC   |  137.76371|    1|
+|SDGR   |  136.97785|    1|
+|GTHX   |  136.91201|    1|
+|BLRX   |  135.91837|    3|
+|BLCM   |  135.88235|    2|
+|APRE   |  135.30655|    1|
+|NTEC   |  134.71074|    1|
+|LCTX   |  133.16062|    3|
+|CATB   |  132.88889|    2|
+|GNCA   |  132.76596|    3|
+|MGTA   |  132.63708|    3|
+|STSA   |  132.60394|    1|
+|AVDL   |  131.38138|    3|
+|KALA   |  131.34111|   10|
+|ALNA   |  131.20000|    2|
+|PTGX   |  131.17346|    1|
+|PBLA   |  130.38674|    1|
+|EYPT   |  130.18868|    1|
+|CLBS   |  129.86111|    3|
+|CYCN   |  129.60526|    3|
+|VRNA   |  129.29577|    2|
+|EVGN   |  129.21569|    1|
+|KRYS   |  128.84551|    1|
+|LYRA   |  128.73665|    2|
+|GNPX   |  128.57143|    3|
+|XBIO   |  128.37209|    2|
+|SNGX   |  128.14815|    2|
+|LMNL   |  127.80374|    1|
+|MITO   |  127.46479|    1|
+|RCUS   |  127.21712|    1|
+|PPBT   |  126.84729|    1|
+|BLU    |  126.64474|    3|
+|BCYC   |  125.83333|    4|
+|EARS   |  125.75758|    2|
+|PLXP   |  125.39130|    1|
+|ABEO   |  124.26036|    2|
+|SLDB   |  124.23469|    2|
+|HAACU  |  123.13105|    1|
+|DTIL   |  122.80502|    1|
+|CANF   |  122.09945|    2|
+|MMEDF  |  121.20275|    2|
+|ATHX   |  121.11111|    3|
+|TLSA   |  120.93023|    1|
+|NCNA   |  120.92511|    1|
+|KZIA   |  120.82405|    4|
+|CTSO   |  120.66906|    1|
+|VKTX   |  120.00000|    2|
+|HGEN   |  119.91037|    4|
+|CDTX   |  119.90291|    1|
+|LPTX   |  119.72477|   11|
+|COCP   |  119.14894|    1|
+|CWBR   |  118.93939|    1|
+|EVLO   |  118.90295|    1|
+|MTP    |  118.50000|    1|
+|VTVT   |  118.50000|    4|
+|CTMX   |  118.14159|    3|
+|GERN   |  117.79141|    1|
+|CVAC   |  117.62632|    1|
+|RIGL   |  117.57925|    2|
+|ETTX   |  117.20000|    2|
+|LIFE   |  117.12846|    5|
+|ACET   |  117.06408|    2|
+|ADMA   |  117.06161|    1|
+|AVCO   |  116.96429|    1|
+|THTX   |  116.80000|    1|
+|OPGN   |  116.27907|    2|
+|BEAM   |  116.04523|    1|
+|SCYX   |  115.20223|    1|
+|VBIV   |  115.01706|    8|
+|ADMS   |  114.73214|    1|
+|PHIO   |  114.59075|    6|
+|LPCN   |  113.98601|    1|
+|DCTH   |  113.77883|    3|
+|AMPE   |  113.51351|    2|
+|ORPH   |  113.36406|    1|
+|ELDN   |  113.28768|    2|
+|NBIX   |  113.26796|    1|
+|RGLS   |  113.07692|    3|
+|KDMN   |  112.80488|    1|
+|GMDA   |  112.58824|    3|
+|ABIO   |  112.50000|    1|
+|BNTC   |  112.27545|    5|
+|TFFP   |  111.43466|    1|
+|BCEL   |  110.46290|    1|
+|NGENF  |  109.77011|    2|
+|SLN    |  109.50000|    1|
+|ARWR   |  109.24762|    8|
+|CLSD   |  109.20437|    4|
+|VSTM   |  109.09091|    3|
+|CALA   |  108.82353|    5|
+|MREO   |  108.75706|    8|
+|VTGN   |  108.73362|    3|
+|EXEL   |  108.23185|    1|
+|APTX   |  107.84884|    1|
+|CRIS   |  107.30897|   11|
+|VXRT   |  107.26698|    2|
+|GRTX   |  107.21248|    1|
+|DRRX   |  107.14286|    1|
+|IDRA   |  106.96517|    2|
+|PROG   |  106.51341|    1|
+|FATE   |  106.46744|    3|
+|ARDX   |  106.33694|    2|
+|XERS   |  106.21469|    8|
+|AUPH   |  106.20384|    4|
+|MGEN   |  105.81395|    2|
+|IVA    |  105.75989|    2|
+|BYSI   |  105.50987|    1|
+|SPPI   |  105.49133|    1|
+|NNOX   |  105.48994|    1|
+|ABUS   |  105.21978|    3|
+|BTAI   |  105.11004|    1|
+|PRQR   |  105.07246|    1|
+|XAIR   |  105.02513|   18|
+|CFRX   |  104.36433|    2|
+|LQDA   |  104.33333|    2|
+|MDXG   |  104.03930|    1|
+|HOOK   |  103.79747|    1|
+|TRVN   |  103.79147|    1|
+|ATNM   |  103.68957|    7|
+|CYTK   |  103.57874|    1|
+|CLRB   |  103.38164|    5|
+|YMTX   |  102.95264|    1|
+|IFRX   |  102.33463|    2|
+|BLPH   |  101.87320|    1|
+|ALGS   |  101.41001|    2|
+|ODT    |  100.00000|    1|
+|FSTX   |  100.00000|    2|
+|MGTX   |   99.93561|    1|
+|ALBO   |   99.45916|    1|
+|ADAP   |   99.00166|   12|
+|SURF   |   98.90471|    1|
+|HEPA   |   98.60465|    6|
+|QURE   |   98.42220|    1|
+|AMRX   |   98.36066|    1|
+|SDC    |   98.28767|    1|
+|IMTX   |   98.09091|    6|
+|NVTA   |   97.89185|    1|
+|PSNL   |   97.58482|    3|
+|TCDA   |   97.35007|    2|
+|ANIP   |   96.39312|    1|
+|VINC   |   96.20000|    2|
+|PIRS   |   95.60440|    8|
+|CBIO   |   95.45455|    1|
+|CTIC   |   95.23810|    1|
+|BMRN   |   95.19119|    1|
+|APTO   |   94.27918|   12|
+|OCUL   |   94.02910|    1|
+|DMAC   |   94.02390|    6|
+|ONCS   |   93.53796|    1|
+|MBIO   |   93.16456|    1|
+|SIOX   |   92.94872|   18|
+|BCLI   |   92.73128|    3|
+|LTRN   |   92.58475|    1|
+|HARP   |   92.23650|    2|
+|MGNX   |   91.39640|    1|
+|QTNT   |   91.28015|    2|
+|CYCC   |   91.09159|   11|
+|MYOV   |   90.69674|    1|
+|MDNA   |   90.40179|    6|
+|TCON   |   90.24621|   10|
+|CASI   |   89.12281|    1|
+|ARVN   |   88.58540|    1|
+|TGTX   |   87.70588|    8|
+|SRRA   |   87.34336|    1|
+|IMMP   |   87.01299|    2|
+|BDTX   |   87.00775|    1|
+|AFMD   |   86.96370|   31|
+|PHAR   |   86.86327|    2|
+|EIGR   |   86.80328|    2|
+|KPTI   |   86.22931|    9|
+|HRTX   |   86.19692|    1|
+|AXSM   |   85.86689|    3|
+|CRSP   |   85.62750|    1|
+|SYRS   |   85.55452|    1|
+|TRIL   |   84.45230|   10|
+|ALPN   |   84.38662|    2|
+|APLS   |   84.22788|    1|
+|NWBO   |   83.33333|    9|
+|SGMO   |   77.44975|   11|
+|PRVB   |   76.56079|    1|
+|PGEN   |   75.52511|    3|
+|ATHA   |   74.77326|    1|
+|GRAY   |   74.32432|    1|
+|CYDY   |   67.83920|    3|
+|CLOV   |   64.89430|    1|
+|CRDF   |   58.25298|    2|
+|CNCE   |   53.97951|    4|
+|EPGNF  |   51.09489|    1|
+|OTIC   |   46.63968|    1|
 
 ## Return vs Picks
 
