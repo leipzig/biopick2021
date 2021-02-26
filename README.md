@@ -263,4 +263,4 @@ Number of entrants for each ticket for [Biopick2021](https://twitter.com/hashtag
 
 ## Return vs Picks
 
-![retvspicks](blob/main/biopicks0225.png?raw=true)
+![retvspicks](biopicks0225.png?raw=true)
