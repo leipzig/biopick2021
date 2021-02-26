@@ -62,4 +62,4 @@ ggsave(filename = "biopicks.png",plot = myplot)
 #poor man's rmd
 write(c("# biopick2021","Percent of original price and number of entrants for each ticket for [Biopick2021](https://twitter.com/hashtag/Biopick2021)"),file = "README.md",append=FALSE)
 write(mktable,file = "README.md",append=TRUE)
-write("![retvspicks](biopicks.png?raw=true)",file = "README",append=TRUE)
+write("![retvspicks](biopicks.png?raw=true)",file = "README.md",append=TRUE)

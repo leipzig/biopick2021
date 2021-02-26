@@ -257,3 +257,4 @@ Percent of original price and number of entrants for each ticket for [Biopick202
 |CNCE   |   54.13712|    4|
 |EPGNF  |   51.09489|    1|
 |OTIC   |   47.77328|    1|
+![retvspicks](biopicks.png?raw=true)
