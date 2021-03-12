@@ -5,7 +5,7 @@ on:
   schedule:
     - cron:  '0 18 * * 5'
   push:
-    branches: [ $default-branch ]
+    branches: main
 jobs:
   biopick:
     runs-on: ubuntu-latest
@@ -31,4 +31,4 @@ jobs:
           git config --local user.email "actions@github.com"
           git config --local user.name "GitHub Actions"
           git commit -m 'update biopicks' biopicks.png README.md
-          git push origin
+          git push origin main
