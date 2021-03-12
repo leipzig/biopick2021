@@ -4,6 +4,8 @@ env:
 on:
   schedule:
     - cron:  '0 18 * * 5'
+  push:
+    branches: [ $default-branch ]
 jobs:
   biopick:
     runs-on: ubuntu-latest
