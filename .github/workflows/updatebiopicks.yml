@@ -24,6 +24,7 @@ jobs:
           remotes::install_github("tidyverse/ggplot2")
           remotes::install_github("msperlin/BatchGetSymbols")
           remotes::install_github("jrnold/ggthemes")
+          remotes::install_github("yuhui/knitr")
         shell: Rscript {0}
       - name: Render Rmarkdown files
         run: |
