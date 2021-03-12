@@ -1,6 +1,7 @@
 library(BatchGetSymbols)
 library(dplyr)
 library(lubridate)
+library(ggplot2)
 library(ggthemes)
 
 biopick <- read.table("Biopick2021-wk1.csv", header = TRUE)
