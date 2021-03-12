@@ -16,12 +16,9 @@ jobs:
       - name: Install rmarkdown, remotes, and the local package
         run: |
           install.packages("remotes")
-          remotes::install_local(".")
-          remotes::install_cran("rmarkdown")
-          remotes::install_cran("dplyr")
-          remotes::install_cran("BatchGetSymbols")
-          remotes::install_cran("lubridate")
-          remotes::install_cran("ggthemes")
+          remotes::install_github("tidyverse/tidyverse")
+          remotes::install_github("msperlin/BatchGetSymbols")
+          remotes::install_github("jrnold/ggthemes")
         shell: Rscript {0}
       - name: Render Rmarkdown files
         run: |
