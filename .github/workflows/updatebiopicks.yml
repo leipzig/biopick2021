@@ -21,13 +21,14 @@ jobs:
           install.packages("remotes")
           remotes::install_github("tidyverse/dplyr")
           remotes::install_github("tidyverse/lubridate")
+          remotes::install_github("tidyverse/ggplot2")
           remotes::install_github("msperlin/BatchGetSymbols")
           remotes::install_github("jrnold/ggthemes")
         shell: Rscript {0}
       - name: Render Rmarkdown files
         run: |
           Rscript -e 'source("biopick.R")'
-      - name: Commit results
+      - name: Commit results push them
         run: |
           git config --local user.email "actions@github.com"
           git config --local user.name "GitHub Actions"
