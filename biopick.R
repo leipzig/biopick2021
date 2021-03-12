@@ -59,6 +59,7 @@ myplot<-ggplot(results, aes(freq, nrml_price)) +
   scale_y_continuous(breaks = seq(0, 1000, 100)) + 
   xlim(-5, 70)+xlab("Number of Picks")+ylab(paste(Sys.Date(),"percent of price on 01/04/2021"))
 ggsave(filename = "biopicks.png",plot = myplot)
+
 #poor man's rmd
 write(c("# biopick2021","Percent of original price and number of entrants for each ticket for [Biopick2021](https://twitter.com/hashtag/Biopick2021)"),file = "README.md",append=FALSE)
 write(mktable,file = "README.md",append=TRUE)
