@@ -43,7 +43,7 @@ results %>% arrange(-nrml_price) %>% knitr::kable() -> mktable
 myplot<-ggplot(results, aes(freq, nrml_price)) +
   geom_point() +
   geom_text(
-    data = subset(results, freq > 15 |
+    data = subset(results, freq > 10 |
                     nrml_price > 300),
     aes(freq, nrml_price, label = paste0(ticker)),
     check_overlap = FALSE,
