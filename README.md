@@ -8,7 +8,6 @@ Percent of original price and number of entrants for each ticket for [Biopick202
 |EOLS   |  338.12500|    1|
 |ORMP   |  326.20690|    1|
 |PLXP   |  325.73913|    1|
-|NTEC   |  311.01928|    1|
 |PAVM   |  302.64317|   58|
 |ATNF   |  301.59363|    1|
 |SESN   |  282.57576|    4|
@@ -147,6 +146,7 @@ Percent of original price and number of entrants for each ticket for [Biopick202
 |ONCT   |   78.31325|   52|
 |BYSI   |   78.28947|    1|
 |CFRX   |   78.17837|    2|
+|NTEC   |   77.75482|    1|
 |EVLO   |   77.72152|    1|
 |TTOO   |   77.44361|    2|
 |ALBO   |   77.36615|    1|
