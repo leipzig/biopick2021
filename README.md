@@ -54,7 +54,6 @@ Percent of original price and number of entrants for each ticket for [Biopick202
 |SYBX   |  124.54545|    2|
 |DARE   |  122.13740|    1|
 |CLPT   |  120.73733|    3|
-|CMRX   |  119.95798|    2|
 |ETTX   |  119.60000|    2|
 |LPTX   |  118.34862|   11|
 |NGENF  |  115.42857|    2|
@@ -131,7 +130,6 @@ Percent of original price and number of entrants for each ticket for [Biopick202
 |ALNA   |   78.24000|    2|
 |BNGO   |   76.66667|    7|
 |GNCA   |   76.17021|    3|
-|MITO   |   76.12676|    1|
 |CFRX   |   76.09108|    2|
 |CTSO   |   74.91039|    1|
 |ATHX   |   74.44444|    3|
@@ -245,7 +243,6 @@ Percent of original price and number of entrants for each ticket for [Biopick202
 |BDTX   |   24.93023|    1|
 |IDRA   |   21.14428|    2|
 |EPGNF  |   20.62044|    1|
-|CYDY   |   19.26298|    3|
 |ARDX   |   18.54714|    2|
 |GRTX   |   18.51852|    1|
 |ODT    |   14.53542|    1|
