@@ -216,7 +216,6 @@ Percent of original price and number of entrants for each ticket for [Biopick202
 |HARP   |  35.167093|    2|
 |TRVN   |  34.928910|    1|
 |OTIC   |  34.493927|    1|
-|PGEN   |  34.337899|    3|
 |PRVB   |  34.173056|    1|
 |GMDA   |  34.117647|    3|
 |ORPH   |  34.009217|    1|
