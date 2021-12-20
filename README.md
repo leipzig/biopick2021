@@ -8,10 +8,12 @@ Percent of original price and number of entrants for each ticket for [Biopick202
 |GRTS   | 336.855037|    6|
 |BCYC   | 294.270818|    4|
 |BLU    | 260.855263|    3|
+|ANVS   | 246.012258|    8|
 |LIFE   | 201.511335|    5|
 |CYTK   | 195.705526|    1|
 |EOLS   | 194.375000|    1|
 |PYNKF  | 181.025641|    2|
+|PRQR   | 179.468599|    1|
 |BCRX   | 176.558266|    7|
 |ATNF   | 174.103586|    1|
 |XAIR   | 172.864322|   18|
@@ -28,6 +30,7 @@ Percent of original price and number of entrants for each ticket for [Biopick202
 |INFI   | 137.438424|    1|
 |MGTX   | 135.350934|    1|
 |DARE   | 135.114504|    1|
+|PAVM   | 134.801762|   58|
 |MNKD   | 132.919255|    1|
 |THTX   | 127.600000|    1|
 |CMRX   | 125.210084|    2|
@@ -88,12 +91,14 @@ Percent of original price and number of entrants for each ticket for [Biopick202
 |BNTC   |  82.634731|    5|
 |VTGN   |  82.532751|    3|
 |GERN   |  82.208589|    1|
+|BIOC   |  80.590717|    1|
 |SPHRY  |  79.914530|    1|
 |AVCO   |  78.482143|    1|
 |AMRS   |  77.777778|    1|
 |LPCN   |  76.223776|    1|
 |BCLI   |  75.550661|    3|
 |RIGL   |  74.927954|    2|
+|CLPT   |  74.786043|    3|
 |APTX   |  74.709302|    1|
 |PCSA   |  74.660634|    1|
 |MGNX   |  74.639636|    1|
@@ -137,6 +142,7 @@ Percent of original price and number of entrants for each ticket for [Biopick202
 |ONCT   |  54.417671|   52|
 |CTSO   |  54.360812|    1|
 |IBIO   |  54.098361|    2|
+|VTVT   |  53.500000|    4|
 |OCUP   |  53.428571|    1|
 |CRIS   |  53.045404|   11|
 |TYME   |  52.537313|    3|
@@ -148,6 +154,7 @@ Percent of original price and number of entrants for each ticket for [Biopick202
 |SGMO   |  51.319096|   11|
 |NCNA   |  51.101322|    1|
 |CNSP   |  50.847458|    1|
+|PBLA   |  50.552486|    1|
 |OMER   |  50.482094|    1|
 |OPGN   |  50.232558|    2|
 |VINC   |  48.850000|    2|
@@ -174,6 +181,7 @@ Percent of original price and number of entrants for each ticket for [Biopick202
 |RAFA   |  43.750000|    1|
 |AXSM   |  43.344791|    3|
 |BTAI   |  42.679424|    1|
+|CYCC   |  42.409034|   11|
 |PSNL   |  42.035654|    3|
 |NVTA   |  41.979836|    1|
 |NWBO   |  41.975309|    9|
@@ -182,6 +190,7 @@ Percent of original price and number of entrants for each ticket for [Biopick202
 |PHIO   |  41.637011|    6|
 |TTOO   |  41.353383|    2|
 |ATHA   |  41.283171|    1|
+|NNOX   |  41.251095|    1|
 |LTRN   |  40.730934|    1|
 |GNCA   |  40.510638|    3|
 |NBSE   |  40.000000|    2|
