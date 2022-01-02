@@ -4,6 +4,7 @@ Percent of original price and number of entrants for each ticket for [Biopick202
 |:------|----------:|----:|
 |SAVA   | 616.361086|    2|
 |PDSB   | 355.263158|   13|
+|ORMP   | 328.275862|    1|
 |BCYC   | 317.031228|    4|
 |GRTS   | 315.970516|    6|
 |BLU    | 264.802632|    3|
@@ -62,6 +63,8 @@ Percent of original price and number of entrants for each ticket for [Biopick202
 |MEIP   |  96.389892|    4|
 |BEAM   |  95.850376|    1|
 |PPBT   |  95.812808|    1|
+|IVA    |  94.795281|    2|
+|VRNA   |  94.647887|    2|
 |KZIA   |  93.763920|    4|
 |VSTM   |  93.181818|    3|
 |ACIU   |  93.045113|    1|
@@ -153,6 +156,7 @@ Percent of original price and number of entrants for each ticket for [Biopick202
 |ALNA   |  47.440000|    2|
 |DRRX   |  47.142857|    1|
 |SGMO   |  47.110553|   11|
+|OPGN   |  46.511628|    2|
 |AXSM   |  46.389978|    3|
 |THMO   |  46.118721|    1|
 |COCP   |  46.099291|    1|
@@ -168,12 +172,14 @@ Percent of original price and number of entrants for each ticket for [Biopick202
 |ALGS   |  44.044525|    2|
 |BLCM   |  43.823529|    2|
 |SDGR   |  43.822346|    1|
+|ATHA   |  43.768895|    1|
 |NWBO   |  43.209877|    9|
 |EIGR   |  42.540984|    2|
 |LTRN   |  42.266951|    1|
 |MBIO   |  42.025317|    1|
 |BNGO   |  41.527778|    7|
 |SIOX   |  41.346154|   18|
+|PSNL   |  41.029328|    3|
 |CVAC   |  40.317276|    1|
 |NBSE   |  40.142857|    2|
 |PROG   |  40.038314|    1|
@@ -194,6 +200,7 @@ Percent of original price and number of entrants for each ticket for [Biopick202
 |SPPI   |  36.705202|    1|
 |MDNA   |  36.383929|    6|
 |PHIO   |  35.587189|    6|
+|NVTA   |  34.990835|    1|
 |OCUL   |  34.972403|    1|
 |CRDF   |  34.089622|    2|
 |CYTR   |  34.000000|    1|
