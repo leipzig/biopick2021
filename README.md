@@ -19,7 +19,6 @@ Percent of original price and number of entrants for each ticket for [Biopick202
 |AUPH   | 168.906950|    4|
 |PYNKF  | 165.641026|    2|
 |LQDA   | 162.333333|    2|
-|XAIR   | 158.123953|   18|
 |ATNF   | 155.378486|    1|
 |RCUS   | 154.701839|    1|
 |MGTX   | 152.865422|    1|
@@ -35,7 +34,6 @@ Percent of original price and number of entrants for each ticket for [Biopick202
 |CMRX   | 135.084034|    2|
 |TCDA   | 133.333333|    2|
 |ACET   | 130.327869|    2|
-|LCTX   | 126.943005|    3|
 |JNCE   | 123.338257|    1|
 |IMTX   | 122.181818|    6|
 |NGENF  | 121.714286|    2|
@@ -55,7 +53,6 @@ Percent of original price and number of entrants for each ticket for [Biopick202
 |ALPN   | 102.973978|    2|
 |BMRN   | 102.375429|    1|
 |SLN    |  99.541663|    1|
-|VXRT   |  99.052133|    2|
 |ACHV   |  98.481013|    2|
 |STSA   |  98.468271|    1|
 |AMRX   |  98.155738|    1|
@@ -74,12 +71,10 @@ Percent of original price and number of entrants for each ticket for [Biopick202
 |NBIX   |  88.839048|    1|
 |ARWR   |  88.600830|    8|
 |BCLI   |  88.105727|    3|
-|HAACU  |  87.774846|    1|
 |ETTX   |  87.600000|    2|
 |OBSV   |  86.899563|    2|
 |APLS   |  86.609267|    1|
 |CLSD   |  85.803432|    4|
-|VTGN   |  85.152838|    3|
 |SCYX   |  85.076708|    1|
 |DTIL   |  84.378563|    1|
 |BLRX   |  83.265306|    3|
@@ -127,7 +122,6 @@ Percent of original price and number of entrants for each ticket for [Biopick202
 |CLBS   |  58.333333|    3|
 |MGTA   |  57.832898|    3|
 |CYCN   |  56.578947|    3|
-|GTHX   |  56.502490|    1|
 |QURE   |  56.420025|    1|
 |XERS   |  55.178908|    8|
 |FSTX   |  54.565217|    2|
@@ -158,7 +152,6 @@ Percent of original price and number of entrants for each ticket for [Biopick202
 |SGMO   |  47.110553|   11|
 |OPGN   |  46.511628|    2|
 |AXSM   |  46.389978|    3|
-|THMO   |  46.118721|    1|
 |COCP   |  46.099291|    1|
 |DCTH   |  45.830869|    3|
 |ONCT   |  45.582329|   52|
@@ -220,7 +213,6 @@ Percent of original price and number of entrants for each ticket for [Biopick202
 |CWBR   |  26.515152|    1|
 |TCON   |  26.231061|   10|
 |LMNL   |  25.467290|    1|
-|CNCE   |  24.822695|    4|
 |RGLS   |  24.615385|    3|
 |CALA   |  24.448529|    5|
 |CLOV   |  23.830878|    1|
