@@ -186,6 +186,7 @@ Percent of original price and number of entrants for each ticket for [Biopick202
 |ALNA   |  30.800000|    2|
 |BTAI   |  29.971292|    1|
 |TLSA   |  29.844961|    1|
+|ZIOP   |  29.776596|    5|
 |BNGO   |  29.583333|    7|
 |PROG   |  29.310345|    1|
 |PLX    |  28.770950|    2|
@@ -243,5 +244,6 @@ Percent of original price and number of entrants for each ticket for [Biopick202
 |CYDY   |  10.552764|    3|
 |YMTX   |   9.749303|    1|
 |CBIO   |   9.090909|    1|
+|ODT    |   6.439742|    1|
 |GRAY   |   4.587482|    1|
 ![retvspicks](biopicks.png?raw=true)
