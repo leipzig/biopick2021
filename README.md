@@ -243,7 +243,6 @@ Percent of original price and number of entrants for each ticket for [Biopick202
 |ORPH   |   8.110599|    1|
 |CYDY   |   7.202680|    3|
 |YMTX   |   6.239554|    1|
-|ODT    |   5.933763|    1|
 |BXRX   |   5.318246|    2|
 |GRAY   |   4.551920|    1|
 ![retvspicks](biopicks.png?raw=true)
