@@ -208,6 +208,7 @@ Percent of original price and number of entrants for each ticket for [Biopick202
 |CLOV   |  22.549648|    1|
 |PSNL   |  22.541691|    3|
 |SIOX   |  22.532051|   18|
+|ZIOP   |  22.145390|    5|
 |CVAC   |  22.115159|    1|
 |TRVN   |  22.037915|    1|
 |PRQR   |  21.618357|    1|
