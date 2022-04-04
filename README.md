@@ -222,7 +222,6 @@ Percent of original price and number of entrants for each ticket for [Biopick202
 |BCEL   |  19.594166|    1|
 |HGEN   |  19.590269|    4|
 |ONCS   |  19.547657|    1|
-|NVTA   |  19.408800|    1|
 |CNSP   |  19.209039|    1|
 |KALA   |  19.096210|   10|
 |ABEO   |  18.934911|    2|
