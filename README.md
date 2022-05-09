@@ -192,7 +192,7 @@ Percent of original price and number of entrants for each ticket for [Biopick202
 |BLPH   |  17.291066|    1|
 |CLOV   |  17.232543|    1|
 |MGTA   |  16.971279|    3|
-|PROG   |  16.954023|    1|
+|PROG   |  16.944444|    1|
 |MBIO   |  16.759494|    1|
 |LMNL   |  16.588785|    1|
 |MREO   |  16.440678|    8|
