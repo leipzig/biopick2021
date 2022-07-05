@@ -212,7 +212,7 @@ Percent of original price and number of entrants for each ticket for [Biopick202
 |ONCS   |  12.1163166|    1|
 |SIOX   |  11.8269231|   18|
 |BCEL   |  11.3506658|    1|
-|ABEO   |  11.2426036|    2|
+|ABEO   |  11.3372781|    2|
 |THMO   |  10.9589041|    1|
 |IDRA   |  10.9452736|    2|
 |ATHA   |  10.8162580|    1|
