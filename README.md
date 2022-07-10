@@ -209,7 +209,6 @@ Percent of original price and number of entrants for each ticket for [Biopick202
 |CRIS   |  13.5105205|   11|
 |DMAC   |  13.4462151|    6|
 |GRTX   |  13.3528265|    1|
-|PROG   |  13.2183908|    1|
 |SIOX   |  13.1089744|   18|
 |ABEO   |  12.9940828|    2|
 |HARP   |  12.9562975|    2|
