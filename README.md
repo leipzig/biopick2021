@@ -87,7 +87,7 @@ Percent of original price and number of entrants for each ticket for [Biopick202
 |CRMD   |  50.5420054|    1|
 |YTEN   |  50.4215852|    1|
 |ALBO   |  48.9724202|    1|
-|SESN   |  48.6969697|    4|
+|SESN   |  48.7121212|    4|
 |VXRT   |  48.3412322|    2|
 |LYRA   |  48.0427046|    2|
 |PTGX   |  47.6020408|    1|
