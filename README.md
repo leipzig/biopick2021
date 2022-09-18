@@ -77,7 +77,7 @@ Percent of original price and number of entrants for each ticket for [Biopick202
 |QURE   |  52.7475518|    1|
 |IFRX   |  52.5291829|    2|
 |PPBT   |  52.2167488|    1|
-|SESN   |  51.8560606|    4|
+|SESN   |  51.8939394|    4|
 |SYBX   |  50.9090909|    2|
 |AMRS   |  50.4273504|    1|
 |CNCE   |  50.1970055|    4|
@@ -224,7 +224,7 @@ Percent of original price and number of entrants for each ticket for [Biopick202
 |OBSV   |   7.0742358|    2|
 |RUBY   |   6.9343066|    1|
 |VINC   |   6.9000000|    2|
-|SYRS   |   6.8499534|    1|
+|SYRS   |   6.8490212|    1|
 |CALA   |   6.4889703|    5|
 |EPGNF  |   6.3868613|    1|
 |AMPE   |   6.0810811|    2|
