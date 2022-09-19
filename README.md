@@ -151,7 +151,7 @@ Percent of original price and number of entrants for each ticket for [Biopick202
 |BTAI   |  24.0574163|    1|
 |CTMX   |  23.3038348|    3|
 |ELDN   |  23.2876712|    2|
-|TYME   |  23.2089552|    3|
+|TYME   |  23.1865672|    3|
 |CLBS   |  23.1481503|    3|
 |DCTH   |  22.8267297|    3|
 |CLRB   |  22.7536221|    5|
