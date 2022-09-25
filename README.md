@@ -122,7 +122,7 @@ Percent of original price and number of entrants for each ticket for [Biopick202
 |IBIO   |  27.8688525|    2|
 |CYCN   |  27.6644737|    3|
 |ATNF   |  27.5298805|    1|
-|MTP    |  27.5000000|    1|
+|MTP    |  27.4950000|    1|
 |XBIO   |  27.2558140|    2|
 |IVA    |  27.2033310|    2|
 |OCUL   |  26.5429002|    1|
