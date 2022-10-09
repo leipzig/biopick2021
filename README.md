@@ -182,9 +182,9 @@ Percent of original price and number of entrants for each ticket for [Biopick202
 |MBIO   |  12.1518987|    1|
 |SPPI   |  12.1387283|    1|
 |KZIA   |  11.9153675|    4|
+|IBIO   |  11.7295082|    2|
 |OPGN   |  11.6744186|    2|
 |SURF   |  11.5005476|    1|
-|IBIO   |  11.4754098|    2|
 |DMTK   |  11.1214960|    2|
 |TGTX   |  11.0980392|    8|
 |CNSP   |  10.9039548|    1|
