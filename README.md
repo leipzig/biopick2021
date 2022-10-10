@@ -155,9 +155,9 @@ Percent of original price and number of entrants for each ticket for [Biopick202
 |CTSO   |  19.3548387|    1|
 |EVLO   |  18.9873418|    1|
 |MDNA   |  18.6383929|    6|
-|COCP   |  17.7304965|    1|
 |BIOC   |  17.7215190|    1|
 |DCTH   |  17.5635719|    3|
+|COCP   |  17.4468085|    1|
 |CYCN   |  17.4342105|    3|
 |ELDN   |  16.7123288|    2|
 |TCON   |  16.6666667|   10|
