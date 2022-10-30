@@ -85,7 +85,7 @@ Percent of original price and number of entrants for each ticket for [Biopick202
 |LYRA   |  42.3487544|    2|
 |AMRS   |  42.0227920|    1|
 |EIGR   |  41.9672131|    2|
-|SESN   |  41.8030303|    4|
+|SESN   |  41.8181818|    4|
 |IVA    |  40.5274115|    2|
 |SYBX   |  39.5000000|    2|
 |PIRS   |  39.1941392|    8|
