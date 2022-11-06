@@ -82,6 +82,7 @@ Percent of original price and number of entrants for each ticket for [Biopick202
 |AMRX   |  43.4426230|    1|
 |YTEN   |  42.3271501|    1|
 |LYRA   |  41.8149466|    2|
+|SESN   |  41.0606061|    4|
 |PRVB   |  40.4162103|    1|
 |PTGX   |  40.2040816|    1|
 |AMRS   |  39.6011396|    1|
