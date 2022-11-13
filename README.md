@@ -3,6 +3,7 @@ Percent of original price and number of entrants for each ticket for [Biopick202
 |ticker |  nrml_price| freq|
 |:------|-----------:|----:|
 |SAVA   | 530.3243724|    2|
+|ALRN   | 320.4762048|    4|
 |BLU    | 305.5921053|    3|
 |PDSB   | 245.6140351|   13|
 |EOLS   | 233.4375000|    1|
@@ -83,7 +84,7 @@ Percent of original price and number of entrants for each ticket for [Biopick202
 |AVCO   |  41.9642857|    1|
 |ADAP   |  41.7637271|   12|
 |CLSD   |  41.4976599|    4|
-|SESN   |  41.1969697|    4|
+|SESN   |  41.2121212|    4|
 |MGTX   |  39.8583387|    1|
 |AUPH   |  39.0694239|    4|
 |OCUP   |  38.5714286|    1|
@@ -162,7 +163,6 @@ Percent of original price and number of entrants for each ticket for [Biopick202
 |HRTX   |  16.6023174|    1|
 |OCUL   |  16.4074260|    1|
 |APTO   |  16.2471396|   12|
-|ALRN   |  16.0238095|    4|
 |BLPH   |  15.8501441|    1|
 |MTP    |  15.3000000|    1|
 |ATNF   |  14.9003984|    1|
@@ -205,7 +205,7 @@ Percent of original price and number of entrants for each ticket for [Biopick202
 |VTGN   |   6.9868996|    3|
 |CASI   |   6.9473684|    1|
 |PLXP   |   6.5217391|    1|
-|KTRA   |   6.3636364|    2|
+|KTRA   |   6.3712121|    2|
 |SDC    |   6.1729452|    1|
 |BYSI   |   5.7565789|    1|
 |IBIO   |   5.7377049|    2|
