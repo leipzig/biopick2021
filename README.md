@@ -114,6 +114,7 @@ Percent of original price and number of entrants for each ticket for [Biopick202
 |TLSA   |  23.2558140|    1|
 |CTMX   |  22.8613569|    3|
 |ADAP   |  22.6289517|   12|
+|EPGNF  |  22.6277372|    1|
 |PAVM   |  22.2466960|   58|
 |SCYX   |  21.7573222|    1|
 |LPTX   |  21.5596330|   11|
@@ -192,7 +193,6 @@ Percent of original price and number of entrants for each ticket for [Biopick202
 |ABEO   |   5.9408284|    2|
 |CLOV   |   5.9000641|    1|
 |BCEL   |   5.8021560|    1|
-|EPGNF  |   5.6569343|    1|
 |PSNL   |   5.6066707|    3|
 |CRIS   |   5.4263566|   11|
 |DMTK   |   5.4205611|    2|
