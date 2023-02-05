@@ -188,6 +188,7 @@ Percent of original price and number of entrants for each ticket for [Biopick202
 |OBSV   |   9.2576419|    2|
 |HOOK   |   9.0415913|    1|
 |CRIS   |   8.6378738|   11|
+|IDRA   |   8.2674866|    2|
 |CLOV   |   8.2639334|    1|
 |CLRB   |   7.9710141|    5|
 |MTP    |   7.8700000|    1|
@@ -224,8 +225,11 @@ Percent of original price and number of entrants for each ticket for [Biopick202
 |CFRX   |   1.3282732|    2|
 |ONCS   |   1.2483478|    1|
 |HGEN   |   1.2163892|    4|
+|QTNT   |   1.1168831|    2|
 |PBLA   |   1.0428177|    1|
+|TCDA   |   0.5746165|    2|
 |CALA   |   0.3216912|    5|
 |BXRX   |   0.2404526|    2|
 |EVFM   |   0.1254902|    7|
+|GNCA   |   0.0680851|    3|
 ![retvspicks](biopicks.png?raw=true)
