@@ -170,7 +170,7 @@ Percent of original price and number of entrants for each ticket for [Biopick202
 |ALRN   |  13.2857143|    4|
 |VTGN   |  13.1004367|    3|
 |CVAC   |  12.9964750|    1|
-|LMNL   |  12.7355143|    1|
+|LMNL   |  12.7359816|    1|
 |ATHA   |  12.4790057|    1|
 |RGLS   |  12.3846154|    3|
 |MEIP   |  11.9133574|    4|
