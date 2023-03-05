@@ -225,7 +225,6 @@ Percent of original price and number of entrants for each ticket for [Biopick202
 |HGEN   |   1.0243278|    4|
 |TTOO   |   0.9383459|    2|
 |CFRX   |   0.7471537|    2|
-|QTNT   |   0.7421150|    2|
 |PBLA   |   0.6353591|    1|
 |TCDA   |   0.1799163|    2|
 |BXRX   |   0.1258840|    2|
