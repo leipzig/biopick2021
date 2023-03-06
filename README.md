@@ -146,7 +146,6 @@ Percent of original price and number of entrants for each ticket for [Biopick202
 |BYSI   |  15.3782895|    1|
 |CANF   |  14.9723757|    2|
 |AFMD   |  14.8844884|   31|
-|CBIO   |  14.8168819|    1|
 |SNGX   |  14.6172840|    2|
 |MRKR   |  14.4217687|    2|
 |TCON   |  14.3939394|   10|
@@ -208,6 +207,7 @@ Percent of original price and number of entrants for each ticket for [Biopick202
 |SDC    |   4.2808219|    1|
 |NVTA   |   4.2392302|    1|
 |HARP   |   4.0154240|    2|
+|CBIO   |   3.8961039|    1|
 |SYRS   |   3.6626280|    1|
 |ATHX   |   3.4000000|    3|
 |CNSP   |   3.2391715|    1|
