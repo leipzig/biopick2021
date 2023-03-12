@@ -88,7 +88,7 @@ Percent of original price and number of entrants for each ticket for [Biopick202
 |IVA    |  31.9222762|    2|
 |AMRN   |  31.6103380|    1|
 |AMRX   |  31.3524590|    1|
-|ASLN   |  30.6451613|    3|
+|ASLN   |  30.6505376|    3|
 |SDGR   |  29.5294390|    1|
 |SPHRY  |  29.2307692|    1|
 |NCNA   |  28.8546256|    1|
