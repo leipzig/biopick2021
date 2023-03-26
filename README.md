@@ -205,7 +205,7 @@ Percent of original price and number of entrants for each ticket for [Biopick202
 |SLDB   |   3.1292518|    2|
 |ATHX   |   3.0000000|    3|
 |NVTA   |   2.9560037|    1|
-|MTP    |   2.8500000|    1|
+|MTP    |   2.8510000|    1|
 |PLXP   |   2.6434783|    1|
 |SYRS   |   2.5535880|    1|
 |NBSE   |   2.4571429|    2|
