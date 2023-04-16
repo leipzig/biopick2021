@@ -159,7 +159,7 @@ Percent of original price and number of entrants for each ticket for [Biopick202
 |RGLS   |   9.1538466|    3|
 |EIGR   |   8.9344266|    2|
 |PSNL   |   8.7981600|    3|
-|MEIP   |   8.6642598|    4|
+|MEIP   |   8.6678699|    4|
 |ATHA   |   8.6328515|    1|
 |CRDF   |   8.4515036|    2|
 |BLCM   |   8.2647053|    2|
