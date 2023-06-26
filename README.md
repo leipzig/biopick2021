@@ -209,7 +209,7 @@ Percent of original price and number of entrants for each ticket for [Biopick202
 |HGEN   |   0.9603073|    4|
 |CFRX   |   0.3439279|    2|
 |RUBY   |   0.2092457|    1|
-|ONCS   |   0.2056102|    1|
+|ONCS   |   0.1951829|    1|
 |TTOO   |   0.1142857|    2|
 |PBLA   |   0.0515654|    1|
 |BXRX   |   0.0374823|    2|
