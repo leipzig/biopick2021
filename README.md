@@ -200,7 +200,7 @@ Percent of original price and number of entrants for each ticket for [Biopick202
 |OPGN   |   1.8953488|    2|
 |TRVN   |   1.6701421|    1|
 |EVLO   |   1.3713080|    1|
-|NBSE   |   1.3357143|    2|
+|NBSE   |   1.3214286|    2|
 |THMO   |   1.2988330|    1|
 |AMPE   |   1.0360360|    2|
 |HGEN   |   0.9603073|    4|
