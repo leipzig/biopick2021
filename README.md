@@ -127,7 +127,7 @@ Percent of original price and number of entrants for each ticket for [Biopick202
 |COCP   |  14.5981089|    1|
 |XBIO   |  14.5906981|    2|
 |BDTX   |  14.5426358|    1|
-|XXII   |  13.7962961|    2|
+|XXII   |  13.7962937|    2|
 |GTHX   |  13.6690651|    1|
 |EPGNF  |  13.1386866|    1|
 |KZIA   |  12.9175949|    4|
