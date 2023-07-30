@@ -101,7 +101,7 @@ Percent of original price and number of entrants for each ticket for [Biopick202
 |EPIX   |  24.3107771|    3|
 |LTRN   |  24.2531790|    1|
 |AMRN   |  23.6580518|    1|
-|THTX   |  23.5999990|    1|
+|THTX   |  23.6039996|    1|
 |SLN    |  22.9166667|    1|
 |OCUL   |  22.6292030|    1|
 |SYBX   |  22.2272719|    2|
