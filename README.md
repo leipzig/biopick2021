@@ -164,7 +164,7 @@ Percent of original price and number of entrants for each ticket for [Biopick202
 |PHIO   |   7.3546854|    6|
 |ONCT   |   7.2289159|   52|
 |HOOK   |   6.9168170|    1|
-|BNGO   |   6.8055559|    7|
+|BNGO   |   6.7361110|    7|
 |BLPH   |   6.5994236|    1|
 |DTIL   |   6.3854045|    1|
 |BCEL   |   6.2143309|    1|
