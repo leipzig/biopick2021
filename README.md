@@ -210,5 +210,4 @@ Percent of original price and number of entrants for each ticket for [Biopick202
 |BXRX   |   0.0315417|    2|
 |PBLA   |   0.0303867|    1|
 |EVFM   |   0.0041830|    7|
-|ONCS   |   0.0001469|    1|
 ![retvspicks](biopicks.png?raw=true)
