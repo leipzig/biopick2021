@@ -198,7 +198,7 @@ Percent of original price and number of entrants for each ticket for [Biopick202
 |NBSE   |   1.1214286|    2|
 |ATNF   |   1.1055777|    1|
 |ATHX   |   1.0000000|    3|
-|AMPE   |   0.9909910|    2|
+|AMPE   |   0.9707208|    2|
 |IBIO   |   0.9508196|    2|
 |BIOC   |   0.9423348|    1|
 |AMRS   |   0.6267806|    1|
