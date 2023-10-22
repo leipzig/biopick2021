@@ -199,7 +199,6 @@ Percent of original price and number of entrants for each ticket for [Biopick202
 |EVLO   |   0.3375527|    1|
 |RUBY   |   0.2080292|    1|
 |INFI   |   0.2024631|    1|
-|AMRS   |   0.0997151|    1|
 |CFRX   |   0.0853890|    2|
 |TTOO   |   0.0819549|    2|
 |ATHX   |   0.0444444|    3|
