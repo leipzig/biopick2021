@@ -92,7 +92,7 @@ Percent of original price and number of entrants for each ticket for [Biopick202
 |MRKR   |  19.3877547|    2|
 |ALT    |  19.1974827|    2|
 |QURE   |  18.7431996|    1|
-|VTVT   |  18.5499996|    4|
+|VTVT   |  18.5599998|    4|
 |AMRN   |  16.3021861|    1|
 |CASI   |  16.1403505|    1|
 |XBIO   |  14.8837212|    2|
