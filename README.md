@@ -119,7 +119,7 @@ Percent of original price and number of entrants for each ticket for [Biopick202
 |ABEO   |  10.2011833|    2|
 |CLRB   |  10.1449267|    5|
 |GTHX   |   9.4078588|    1|
-|SEEL   |   8.9041090|    2|
+|SEEL   |   8.9657529|    2|
 |ACET   |   8.8673625|    2|
 |ALRN   |   8.8095239|    4|
 |COCP   |   8.6288418|    1|
