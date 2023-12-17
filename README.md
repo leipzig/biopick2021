@@ -164,7 +164,7 @@ Percent of original price and number of entrants for each ticket for [Biopick202
 |FATE   |   3.3675290|    3|
 |CNSP   |   3.2580039|    1|
 |VINC   |   3.1549999|    2|
-|CYCC   |   3.0112924|   11|
+|CYCC   |   2.9937258|   11|
 |SNGX   |   2.8641974|    2|
 |DRRX   |   2.8095237|    1|
 |SGMO   |   2.6381909|   11|
