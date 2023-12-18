@@ -170,7 +170,7 @@ Percent of original price and number of entrants for each ticket for [Biopick202
 |SGMO   |   2.6381909|   11|
 |MBIO   |   2.3291139|    1|
 |PHIO   |   2.2538552|    6|
-|TFFP   |   2.2159091|    1|
+|TFFP   |   2.2329545|    1|
 |ALGS   |   2.1706863|    2|
 |BNGO   |   2.0833333|    7|
 |KALA   |   1.9766764|   10|
