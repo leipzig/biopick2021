@@ -132,7 +132,7 @@ Percent of original price and number of entrants for each ticket for [Biopick202
 |BYSI   |   7.6480265|    1|
 |AVIR   |   7.4601643|    1|
 |VTGN   |   7.3362448|    3|
-|ONCT   |   6.8273093|   52|
+|ONCT   |   6.8795184|   52|
 |HOOK   |   6.7359853|    1|
 |NCNA   |   6.4977971|    1|
 |PIRS   |   6.4468864|    8|
@@ -173,7 +173,7 @@ Percent of original price and number of entrants for each ticket for [Biopick202
 |CYCC   |   2.0828105|   11|
 |KALA   |   2.0408163|   10|
 |CWBR   |   1.8939395|    1|
-|EIGR   |   1.7868852|    2|
+|EIGR   |   1.7877050|    2|
 |TFFP   |   1.6988636|    1|
 |TCON   |   1.6477272|   10|
 |GRTX   |   1.4619883|    1|
