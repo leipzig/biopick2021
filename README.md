@@ -185,7 +185,7 @@ Percent of original price and number of entrants for each ticket for [Biopick202
 |BLPH   |   0.8501441|    1|
 |VBIV   |   0.6939704|    8|
 |XXII   |   0.5586419|    2|
-|NBSE   |   0.4718571|    2|
+|NBSE   |   0.4735000|    2|
 |THMO   |   0.4464739|    1|
 |AMPE   |   0.4301802|    2|
 |ATNF   |   0.4023904|    1|
