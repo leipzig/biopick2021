@@ -73,7 +73,6 @@ Percent of original price and number of entrants for each ticket for [Biopick202
 |MGTX   |  38.0553764|    1|
 |PYNKF  |  37.9487175|    2|
 |OCUP   |  37.8571442|    1|
-|NWBO   |  33.9506179|    9|
 |CDTX   |  33.9320398|    1|
 |SDGR   |  33.3417198|    1|
 |RIGL   |  32.8530253|    2|
