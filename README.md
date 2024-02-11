@@ -177,7 +177,6 @@ Percent of original price and number of entrants for each ticket for [Biopick202
 |EIGR   |   1.5737706|    2|
 |BCEL   |   1.5599239|    1|
 |TRVN   |   1.1109005|    1|
-|CALA   |   1.1047794|    5|
 |OPGN   |   0.9558140|    2|
 |BLPH   |   0.9221902|    1|
 |THMO   |   0.8219178|    1|
@@ -190,6 +189,7 @@ Percent of original price and number of entrants for each ticket for [Biopick202
 |IBIO   |   0.1934426|    2|
 |KTRA   |   0.1893939|    2|
 |TTOO   |   0.0735338|    2|
+|CALA   |   0.0552390|    5|
 |NVTA   |   0.0458295|    1|
 |ATHX   |   0.0422222|    3|
 |EVLO   |   0.0177215|    1|
