@@ -168,7 +168,6 @@ Percent of original price and number of entrants for each ticket for [Biopick202
 |GRTX   |    2.2807017|    1|
 |MBIO   |    2.2447258|    1|
 |CWBR   |    2.2222223|    1|
-|KALA   |    2.1370262|   10|
 |TFFP   |    1.9170455|    1|
 |EIGR   |    1.9125683|    2|
 |PCSA   |    1.8552036|    1|
