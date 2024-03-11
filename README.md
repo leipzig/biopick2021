@@ -32,6 +32,7 @@ Percent of original price and number of entrants for each ticket for [Biopick202
 |EXEL   |  108.1831385|    1|
 |SLN    |  106.6250006|    1|
 |MREO   |  101.1299424|    8|
+|AFMD   |   99.7524774|   31|
 |BMRN   |   99.5944309|    1|
 |ATNM   |   97.3282438|    7|
 |AXSM   |   90.7662033|    3|
@@ -123,7 +124,6 @@ Percent of original price and number of entrants for each ticket for [Biopick202
 |LPTX   |   11.4678903|   11|
 |ELDN   |   11.4383556|    2|
 |RGLS   |   10.6923076|    3|
-|AFMD   |    9.9752479|   31|
 |AVIR   |    9.6571709|    1|
 |ONCT   |    9.6285144|   52|
 |SLDB   |    9.4727895|    2|
