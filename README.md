@@ -98,7 +98,6 @@ Percent of original price and number of entrants for each ticket for [Biopick202
 |DCTH   |   23.4772328|    3|
 |VTVT   |   22.5000000|    4|
 |ABEO   |   20.4260358|    2|
-|XBIO   |   20.2325577|    2|
 |SCYX   |   20.2231525|    1|
 |TLSA   |   19.3798455|    1|
 |LPCN   |   18.9222542|    1|
