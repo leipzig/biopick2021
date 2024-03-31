@@ -148,7 +148,7 @@ Percent of original price and number of entrants for each ticket for [Biopick202
 |BTAI   |    5.3971291|    1|
 |CYCN   |    5.2631580|    3|
 |DTIL   |    5.1539339|    1|
-|CLOV   |    5.0864833|    1|
+|CLOV   |    4.9937110|    1|
 |SYRS   |    4.9860203|    1|
 |PSNL   |    4.2840715|    3|
 |SGMO   |    4.2085428|   11|
