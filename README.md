@@ -180,7 +180,7 @@ Percent of original price and number of entrants for each ticket for [Biopick202
 |IBIO   |    0.6655738|    2|
 |BCEL   |    0.5072923|    1|
 |GMDA   |    0.4705882|    3|
-|XXII   |    0.3703703|    2|
+|XXII   |    0.3703704|    2|
 |NBSE   |    0.3213571|    2|
 |ATNF   |    0.2442860|    1|
 |AMPE   |    0.2072072|    2|
