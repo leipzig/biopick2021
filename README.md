@@ -179,7 +179,7 @@ Percent of original price and number of entrants for each ticket for [Biopick202
 |EIGR   |    0.6284153|    2|
 |CNSP   |    0.4877590|    1|
 |BCEL   |    0.4629042|    1|
-|GMDA   |    0.3529412|    3|
+|GMDA   |    0.3847059|    3|
 |IBIO   |    0.3459016|    2|
 |NBSE   |    0.2859286|    2|
 |ATNF   |    0.2338016|    1|
