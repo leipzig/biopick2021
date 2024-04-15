@@ -43,7 +43,6 @@ Percent of original price and number of entrants for each ticket for [Biopick202
 |MREO   |   76.8361598|    8|
 |PHAR   |   70.5764054|    2|
 |MDXG   |   70.3056787|    1|
-|LCTX   |   67.3575123|    3|
 |ALDX   |   65.0842246|    1|
 |EPIX   |   64.8287390|    3|
 |BCRX   |   64.6341451|    7|
@@ -146,7 +145,7 @@ Percent of original price and number of entrants for each ticket for [Biopick202
 |YTEN   |    5.2276562|    1|
 |HEPA   |    5.0930234|    6|
 |SYRS   |    5.0232989|    1|
-|NCNA   |    4.9339209|    1|
+|NCNA   |    4.9118944|    1|
 |VINC   |    4.9000001|    2|
 |CLOV   |    4.2921206|    1|
 |KZIA   |    4.0089090|    4|
