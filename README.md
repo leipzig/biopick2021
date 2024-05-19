@@ -166,7 +166,7 @@ Percent of original price and number of entrants for each ticket for [Biopick202
 |GNPX   |    1.5435835|    3|
 |YTEN   |    1.4825743|    1|
 |PCSA   |    1.4781297|    1|
-|OPGN   |    1.0697675|    2|
+|OPGN   |    1.0697674|    2|
 |BLPH   |    0.8213256|    1|
 |TRVN   |    0.7677725|    1|
 |VBIV   |    0.7167235|    8|
