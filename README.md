@@ -95,6 +95,7 @@ Percent of original price and number of entrants for each ticket for [Biopick202
 |CRDF   |   19.5121964|    2|
 |PYNKF  |   19.4871788|    2|
 |ELDN   |   19.3150675|    2|
+|XAIR   |   18.5092137|   18|
 |NNOX   |   18.4383204|    1|
 |PPBT   |   18.3497541|    1|
 |XBIO   |   18.1348834|    2|
