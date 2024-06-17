@@ -7,7 +7,6 @@ Percent of original price and number of entrants for each ticket for [Biopick202
 |LQDA   | 431.3333193|    2|
 |EOLS   | 354.0624923|    1|
 |KRYS   | 299.1921983|    1|
-|GERN   | 298.7730000|    1|
 |SAVA   | 278.1382072|    2|
 |CYTK   | 275.7157555|    1|
 |AVDL   | 237.3873991|    3|
@@ -57,7 +56,6 @@ Percent of original price and number of entrants for each ticket for [Biopick202
 |PRQR   |  42.5120784|    1|
 |AUPH   |  41.7282135|    4|
 |XERS   |  41.4312631|    8|
-|CRSP   |  40.2253045|    1|
 |LPCN   |  39.0374331|    1|
 |CLSD   |  37.1294878|    4|
 |CLPT   |  35.6155365|    3|
@@ -97,7 +95,6 @@ Percent of original price and number of entrants for each ticket for [Biopick202
 |CMRX   |  18.4873940|    2|
 |XBIO   |  17.9534879|    2|
 |HRTX   |  17.3745175|    1|
-|ADAP   |  16.8053237|   12|
 |NNOX   |  16.6447942|    1|
 |CLRB   |  15.5555551|    5|
 |AMRN   |  15.5069570|    1|
