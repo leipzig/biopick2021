@@ -21,6 +21,7 @@ Percent of original price and number of entrants for each ticket for [Biopick202
 |PDSB   | 120.1754405|   13|
 |IMTX   | 114.3636357|    6|
 |MREO   | 112.4293803|    8|
+|BCYC   | 108.0729124|    4|
 |EXEL   | 105.0170421|    1|
 |ATNM   | 100.1272233|    7|
 |BMRN   |  97.5086889|    1|
@@ -98,6 +99,7 @@ Percent of original price and number of entrants for each ticket for [Biopick202
 |PYNKF  |  15.8974356|    2|
 |NNOX   |  15.8136479|    1|
 |CANF   |  15.0828727|    2|
+|ALRN   |  14.8571423|    4|
 |COCP   |  14.7163120|    1|
 |ADAP   |  14.6422623|   12|
 |AMRN   |  14.5129222|    1|
