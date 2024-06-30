@@ -75,8 +75,8 @@ Percent of original price and number of entrants for each ticket for [Biopick202
 |OMER   |  27.9614312|    1|
 |SCYX   |  27.8940025|    1|
 |MGTX   |  27.1088223|    1|
+|DARE   |  26.7022889|    1|
 |NWBO   |  26.5432102|    9|
-|DARE   |  25.6488557|    1|
 |LTRN   |  24.7351710|    1|
 |SDGR   |  24.3331647|    1|
 |RIGL   |  23.6887611|    2|
