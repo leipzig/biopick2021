@@ -168,7 +168,7 @@ Percent of original price and number of entrants for each ticket for [Biopick202
 |OPGN   |   0.5209302|    2|
 |BLPH   |   0.5043228|    1|
 |TFFP   |   0.5000000|    1|
-|TRVN   |   0.3791469|    1|
+|TRVN   |   0.3785782|    1|
 |KTRA   |   0.2803030|    2|
 |IBIO   |   0.2557377|    2|
 |THMO   |   0.1927955|    1|
