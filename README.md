@@ -149,7 +149,7 @@ Percent of original price and number of entrants for each ticket for [Biopick202
 |LYRA   |   2.6601424|    2|
 |CYDY   |   2.0100503|    3|
 |PAVM   |   1.9941264|   58|
-|ALGS   |   1.9480518|    2|
+|ALGS   |   1.9484229|    2|
 |KALA   |   1.7813411|   10|
 |HEPA   |   1.5162791|    6|
 |SYRS   |   1.4165889|    1|
