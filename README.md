@@ -44,7 +44,7 @@ Percent of original price and number of entrants for each ticket for [Biopick202
 |DCTH   |   65.0502667|    3|
 |CRIS   |   61.2403142|   11|
 |ACIU   |   60.7142841|    1|
-|ABIO   |   58.8942322|    1|
+|ABIO   |   57.6923083|    1|
 |ACHV   |   55.5696179|    2|
 |ORMP   |   54.9425324|    1|
 |XERS   |   52.9190202|    8|
