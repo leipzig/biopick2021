@@ -44,7 +44,6 @@ Percent of original price and number of entrants for each ticket for [Biopick202
 |RCUS   |   62.9969405|    1|
 |ALT    |   61.2903221|    2|
 |APLS   |   59.5530284|    1|
-|ACHV   |   58.2278462|    2|
 |XERS   |   55.1789096|    8|
 |EPIX   |   53.9682531|    3|
 |DCTH   |   53.2229455|    3|
