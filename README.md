@@ -122,7 +122,7 @@ Percent of original price and number of entrants for each ticket for [Biopick202
 |DRRX   |    6.8095236|    1|
 |XAIR   |    6.7336687|   18|
 |RAFA   |    6.2500000|    1|
-|KZIA   |    5.7906460|    4|
+|KZIA   |    5.7906455|    4|
 |AFMD   |    5.4867989|   31|
 |SPHRY  |    5.2991454|    1|
 |PPBT   |    5.0492612|    1|
