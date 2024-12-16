@@ -169,7 +169,7 @@ Percent of original price and number of entrants for each ticket for [Biopick202
 |SRNE   |   0.0212164|    3|
 |TFFP   |   0.0184659|    1|
 |TCON   |   0.0152462|   10|
-|XXII   |   0.0094522|    2|
+|XXII   |   0.0094715|    2|
 |CALA   |   0.0069853|    5|
 |TTOO   |   0.0054887|    2|
 |SEEL   |   0.0052618|    2|
