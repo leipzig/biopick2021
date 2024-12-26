@@ -11,6 +11,8 @@ Percent of original price and number of entrants for each ticket for [Biopick202
 |KRYS   | 266.7788777|    1|
 |CYTK   | 248.1083850|    1|
 |MNKD   | 209.3167612|    1|
+|GERN   | 204.9079708|    1|
+|PTGX   | 200.5101963|    1|
 |ANIP   | 179.2190638|    1|
 |EXEL   | 164.7345278|    1|
 |AMRX   | 160.8606500|    1|
@@ -21,10 +23,12 @@ Percent of original price and number of entrants for each ticket for [Biopick202
 |MREO   | 107.6271182|    8|
 |AXSM   | 106.8393904|    3|
 |BCRX   | 103.9295387|    7|
+|CLPT   | 103.4233079|    3|
 |MDXG   |  99.6724920|    1|
 |ABUS   |  87.3626367|    3|
 |EYPT   |  81.3540481|    1|
 |BMRN   |  77.2074101|    1|
+|BCYC   |  76.5104114|    4|
 |ALDX   |  72.8177636|    1|
 |PDSB   |  71.9298248|   13|
 |ARDX   |  71.7156108|    2|
@@ -48,6 +52,7 @@ Percent of original price and number of entrants for each ticket for [Biopick202
 |ORMP   |  54.7126475|    1|
 |DMAC   |  52.3904407|    6|
 |ACIU   |  50.3759395|    1|
+|PLX    |  49.7206707|    2|
 |IFRX   |  48.8326859|    2|
 |ACHV   |  47.9746825|    2|
 |RIGL   |  47.3775221|    2|
@@ -57,6 +62,7 @@ Percent of original price and number of entrants for each ticket for [Biopick202
 |MGTX   |  39.7295569|    1|
 |CRIS   |  35.1052068|   11|
 |BEAM   |  34.6523932|    1|
+|SAVA   |  33.0042294|    2|
 |ELDN   |  29.2465744|    2|
 |SLN    |  29.1666667|    1|
 |CLSD   |  28.9859608|    4|
@@ -68,6 +74,7 @@ Percent of original price and number of entrants for each ticket for [Biopick202
 |MRKR   |  22.9931984|    2|
 |ARVN   |  22.3401722|    1|
 |CRDF   |  22.2348285|    2|
+|LXRX   |  21.5909089|    2|
 |CLOV   |  20.4356190|    1|
 |BNTC   |  20.3945054|    5|
 |DARE   |  20.3562341|    1|
@@ -116,6 +123,7 @@ Percent of original price and number of entrants for each ticket for [Biopick202
 |PPBT   |   4.7044336|    1|
 |DRRX   |   4.6190478|    1|
 |TRIB   |   4.5983381|    1|
+|RAFA   |   4.3750000|    1|
 |MEIP   |   4.2599275|    4|
 |VTGN   |   3.7117905|    3|
 |SLDB   |   3.5544217|    2|
@@ -131,6 +139,7 @@ Percent of original price and number of entrants for each ticket for [Biopick202
 |FATE   |   1.8510258|    3|
 |ATHA   |   1.8206247|    1|
 |KALA   |   1.8192419|   10|
+|HOOK   |   1.7133816|    1|
 |DTIL   |   1.7103762|    1|
 |CWBR   |   1.5404041|    1|
 |LYRA   |   1.5302492|    2|
@@ -152,6 +161,7 @@ Percent of original price and number of entrants for each ticket for [Biopick202
 |CYCC   |   0.2676704|   11|
 |YTEN   |   0.2389334|    1|
 |SYRS   |   0.1891892|    1|
+|OPGN   |   0.1390698|    2|
 |TRVN   |   0.1364929|    1|
 |TFFP   |   0.0184659|    1|
 |TCON   |   0.0152462|   10|
@@ -164,5 +174,6 @@ Percent of original price and number of entrants for each ticket for [Biopick202
 |AMPE   |   0.0005856|    2|
 |PBLA   |   0.0003959|    1|
 |EVFM   |   0.0001882|    7|
+|CALA   |   0.0001838|    5|
 |EVLO   |   0.0001688|    1|
 ![retvspicks](biopicks.png?raw=true)
