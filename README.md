@@ -156,8 +156,8 @@ Percent of original price and number of entrants for each ticket for [Biopick202
 |CYCC   |   0.3094939|   11|
 |OPGN   |   0.2790698|    2|
 |SYRS   |   0.1966449|    1|
+|BNGO   |   0.1687500|    7|
 |ATNF   |   0.1677501|    1|
-|BNGO   |   0.1666667|    7|
 |MBIO   |   0.1616878|    1|
 |TRVN   |   0.1319431|    1|
 |TFFP   |   0.0184659|    1|
