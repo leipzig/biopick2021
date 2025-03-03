@@ -103,7 +103,7 @@ Percent of original price and number of entrants for each ticket for [Biopick202
 |RGLS   |  10.3846156|    3|
 |COCP   |  10.2245864|    1|
 |CTMX   |   9.9852502|    3|
-|ALRN   |   9.8095235|    4|
+|ALRN   |   9.9523805|    4|
 |CANF   |   9.7237566|    2|
 |ADAP   |   8.9850250|   12|
 |RAFA   |   8.7499999|    1|
