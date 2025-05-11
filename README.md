@@ -143,7 +143,7 @@ Percent of original price and number of entrants for each ticket for [Biopick202
 |SNGX   |   0.6111111|    2|
 |PHIO   |   0.5799393|    6|
 |GRTX   |   0.2241715|    1|
-|CYCC   |   0.2091175|   11|
+|CYCC   |   0.2119615|   11|
 |BTAI   |   0.1830144|    1|
 |PCSA   |   0.1802413|    1|
 |GNPX   |   0.1725182|    3|
