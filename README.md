@@ -136,7 +136,7 @@ Percent of original price and number of entrants for each ticket for [Biopick202
 |KALA   |    1.1778426|   10|
 |OPGN   |    1.0930232|    2|
 |ATHA   |    0.9271078|    1|
-|LYRA   |    0.8185054|    2|
+|LYRA   |    0.8167260|    2|
 |ALGS   |    0.8163265|    2|
 |KZIA   |    0.7973274|    4|
 |PHIO   |    0.5766442|    6|
