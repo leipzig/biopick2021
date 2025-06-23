@@ -134,7 +134,7 @@ Percent of original price and number of entrants for each ticket for [Biopick202
 |KPTI   |    1.7257683|    9|
 |PAVM   |    1.7033774|   58|
 |AFMD   |    1.6171617|   31|
-|CLRB   |    1.4009661|    5|
+|CLRB   |    1.4096617|    5|
 |FATE   |    1.3269403|    3|
 |KALA   |    1.1778426|   10|
 |HOOK   |    1.1663653|    1|
