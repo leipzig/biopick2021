@@ -122,7 +122,7 @@ Percent of original price and number of entrants for each ticket for [Biopick202
 |SGMO   |    3.0778895|   11|
 |DRRX   |    3.0000000|    1|
 |PPBT   |    2.9556653|    1|
-|XAIR   |    2.8978224|   18|
+|XAIR   |    2.8911222|   18|
 |EVGN   |    2.6862745|    1|
 |KZIA   |    2.4053453|    4|
 |APRE   |    1.8287527|    1|
