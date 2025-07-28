@@ -94,7 +94,6 @@ Percent of original price and number of entrants for each ticket for [Biopick202
 |CTSO   |   11.2783754|    1|
 |MRKR   |   10.6122446|    2|
 |SCYX   |   10.1813112|    1|
-|COCP   |    9.4562649|    1|
 |AVIR   |    9.4157418|    1|
 |ARVN   |    9.3511456|    1|
 |PYNKF  |    9.2307694|    2|
