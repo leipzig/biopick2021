@@ -99,6 +99,7 @@ Percent of original price and number of entrants for each ticket for [Biopick202
 |MEIP   |    8.7906133|    4|
 |DRRX   |    8.7619049|    1|
 |AVIR   |    8.3775958|    1|
+|HRTX   |    8.1563712|    1|
 |BDTX   |    8.0310075|    1|
 |MGNX   |    7.1171171|    1|
 |CVAC   |    6.3572267|    1|
