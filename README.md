@@ -150,7 +150,7 @@ Percent of original price and number of entrants for each ticket for [Biopick202
 |BNGO   |    0.0673611|    7|
 |MBIO   |    0.0560338|    1|
 |CYCC   |    0.0306009|   11|
-|NCNA   |    0.0281938|    1|
+|NCNA   |    0.0283700|    1|
 |SRNE   |    0.0212164|    3|
 |TRVN   |    0.0189573|    1|
 |VINC   |    0.0100000|    2|
