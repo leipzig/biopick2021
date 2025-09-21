@@ -23,7 +23,6 @@ Percent of original price and number of entrants for each ticket for [Biopick202
 |EYPT   |  147.0588198|    1|
 |XERS   |  145.3860616|    8|
 |AXSM   |  142.3747464|    3|
-|CLSD   |  117.3166952|    4|
 |ABUS   |  116.7582384|    3|
 |BCRX   |  104.3360392|    7|
 |ARMP   |  101.6556276|    2|
@@ -95,6 +94,7 @@ Percent of original price and number of entrants for each ticket for [Biopick202
 |ARVN   |    8.9694660|    1|
 |NNOX   |    8.6832894|    1|
 |COCP   |    7.8605203|    1|
+|CLSD   |    7.8211127|    4|
 |MGNX   |    7.2972971|    1|
 |SPHRY  |    7.1794871|    1|
 |AVIR   |    6.9531633|    1|
