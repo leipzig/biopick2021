@@ -107,6 +107,7 @@ Percent of original price and number of entrants for each ticket for [Biopick202
 |VTGN   |    5.3129553|    3|
 |SYBX   |    5.0303029|    2|
 |SLDB   |    5.0170069|    2|
+|MEIP   |    4.6209384|    4|
 |EPGNF  |    4.5355536|    1|
 |CYDY   |    4.3551089|    3|
 |SGMO   |    4.2713568|   11|
@@ -138,6 +139,7 @@ Percent of original price and number of entrants for each ticket for [Biopick202
 |KALA   |    0.4489796|   10|
 |SNGX   |    0.4259259|    2|
 |BTAI   |    0.3026316|    1|
+|ATNF   |    0.2652548|    1|
 |GRTX   |    0.1851852|    1|
 |PCSA   |    0.1606335|    1|
 |IBIO   |    0.1409836|    2|
@@ -146,15 +148,19 @@ Percent of original price and number of entrants for each ticket for [Biopick202
 |SRNE   |    0.0495050|    3|
 |BNGO   |    0.0444444|    7|
 |NCNA   |    0.0206167|    1|
-|AMPE   |    0.0188063|    2|
 |CYCC   |    0.0166597|   11|
 |VINC   |    0.0127500|    2|
 |SYRS   |    0.0046598|    1|
 |HEPA   |    0.0032093|    6|
 |TRVN   |    0.0009100|    1|
+|AMPE   |    0.0006081|    2|
 |CNSP   |    0.0005621|    1|
 |EVFM   |    0.0002719|    7|
+|EVLO   |    0.0002110|    1|
+|CALA   |    0.0001838|    5|
 |TTOO   |    0.0001654|    2|
 |XXII   |    0.0001044|    2|
+|THMO   |    0.0001015|    1|
+|OPGN   |    0.0000233|    2|
 |PBLA   |    0.0000127|    1|
 ![retvspicks](biopicks.png?raw=true)
