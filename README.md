@@ -112,7 +112,6 @@ Percent of original price and number of entrants for each ticket for [Biopick202
 |CYCN   |    2.0559211|    3|
 |SYBX   |    1.8848484|    2|
 |EVGN   |    1.8823529|    1|
-|CLSD   |    1.5596464|    4|
 |DTIL   |    1.4785253|    1|
 |ATHA   |    1.4578435|    1|
 |FATE   |    1.3938448|    3|
