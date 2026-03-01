@@ -125,7 +125,7 @@ Percent of original price and number of entrants for each ticket for [Biopick202
 |XAIR   |    0.8048576|   18|
 |CASI   |    0.8038597|    1|
 |CRIS   |    0.6312292|   11|
-|PPBT   |    0.5443350|    1|
+|PPBT   |    0.5448276|    1|
 |CLRB   |    0.5233494|    5|
 |IBIO   |    0.4622951|    2|
 |GRTX   |    0.4580896|    1|
