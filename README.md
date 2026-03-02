@@ -115,7 +115,6 @@ Percent of original price and number of entrants for each ticket for [Biopick202
 |FATE   |    1.6503122|    3|
 |DTIL   |    1.5963511|    1|
 |CANF   |    1.3121547|    2|
-|CLSD   |    1.0608424|    4|
 |ALGS   |    1.0434138|    2|
 |BCLI   |    1.0279002|    3|
 |PAVM   |    0.9867841|   58|
