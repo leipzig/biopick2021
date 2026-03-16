@@ -113,7 +113,6 @@ Percent of original price and number of entrants for each ticket for [Biopick202
 |KZIA   |    1.6681514|    4|
 |EVGN   |    1.5686275|    1|
 |FATE   |    1.3046387|    3|
-|CLSD   |    1.1440458|    4|
 |ALGS   |    1.1235622|    2|
 |BCLI   |    1.1013216|    3|
 |PAVM   |    0.9985316|   58|
