@@ -113,6 +113,7 @@ Percent of original price and number of entrants for each ticket for [Biopick202
 |KZIA   |    1.5946548|    4|
 |BCLI   |    1.3215859|    3|
 |FATE   |    1.3046387|    3|
+|CLSD   |    1.1234529|    4|
 |ALGS   |    0.9884972|    2|
 |HOOK   |    0.9575045|    1|
 |CANF   |    0.8674033|    2|
