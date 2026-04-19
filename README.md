@@ -120,6 +120,7 @@ Percent of original price and number of entrants for each ticket for [Biopick202
 |PAVM   |    0.8928047|   58|
 |GRTX   |    0.8674464|    1|
 |CANF   |    0.8397790|    2|
+|CLSD   |    0.7280291|    4|
 |PPBT   |    0.5997537|    1|
 |CASI   |    0.4807017|    1|
 |CLRB   |    0.4702094|    5|
