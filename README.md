@@ -85,7 +85,7 @@ Percent of original price and number of entrants for each ticket for [Biopick202
 |ARVN   |   10.7108778|    1|
 |MRKR   |   10.6802726|    2|
 |VXRT   |   10.2685621|    2|
-|SCYX   |    9.8326356|    1|
+|SCYX   |    9.8270568|    1|
 |MREO   |    9.7175146|    8|
 |LPCN   |    9.2554506|    1|
 |BDTX   |    6.8837210|    1|
