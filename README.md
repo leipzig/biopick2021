@@ -116,7 +116,6 @@ Percent of original price and number of entrants for each ticket for [Biopick202
 |CANF   |    0.9254143|    2|
 |VTGN   |    0.9170306|    3|
 |ALGS   |    0.8460111|    2|
-|CLSD   |    0.6659386|    4|
 |PAVM   |    0.6067548|   58|
 |CLRB   |    0.5056361|    5|
 |XAIR   |    0.3852596|   18|
