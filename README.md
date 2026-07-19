@@ -92,7 +92,6 @@ Percent of original price and number of entrants for each ticket for [Biopick202
 |COCP   |    5.6146571|    1|
 |BDTX   |    5.5503875|    1|
 |CRDF   |    4.9914920|    2|
-|XAIR   |    4.6733667|   18|
 |EPGNF  |    4.5355536|    1|
 |CTSO   |    4.3010755|    1|
 |CBIO   |    3.9544236|    1|
@@ -118,12 +117,12 @@ Percent of original price and number of entrants for each ticket for [Biopick202
 |CLRB   |    0.4041868|    5|
 |PHIO   |    0.3393963|    6|
 |VTGN   |    0.3347890|    3|
+|XAIR   |    0.2336683|   18|
 |IBIO   |    0.2262295|    2|
 |PPBT   |    0.1810345|    1|
 |CRIS   |    0.1281838|   11|
 |SNGX   |    0.1111111|    2|
 |BTAI   |    0.1061005|    1|
-|GNPX   |    0.0928571|    3|
 |LYRA   |    0.0925267|    2|
 |PCSA   |    0.0696833|    1|
 |AMPE   |    0.0412387|    2|
@@ -132,6 +131,7 @@ Percent of original price and number of entrants for each ticket for [Biopick202
 |SRNE   |    0.0141443|    3|
 |NCNA   |    0.0057930|    1|
 |KALA   |    0.0045248|   10|
+|GNPX   |    0.0042208|    3|
 |VINC   |    0.0037500|    2|
 |HEPA   |    0.0028372|    6|
 |TRVN   |    0.0008341|    1|
