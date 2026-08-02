@@ -124,7 +124,6 @@ Percent of original price and number of entrants for each ticket for [Biopick202
 |BTAI   |    0.0966507|    1|
 |LYRA   |    0.0845196|    2|
 |PCSA   |    0.0648567|    1|
-|AMPE   |    0.0412387|    2|
 |BNGO   |    0.0247685|    7|
 |MBIO   |    0.0192405|    1|
 |SRNE   |    0.0070721|    3|
