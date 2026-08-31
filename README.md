@@ -122,6 +122,7 @@ Percent of original price and number of entrants for each ticket for [Biopick202
 |SNGX   |    0.1172839|    2|
 |PCSA   |    0.0621418|    1|
 |CRIS   |    0.0412514|   11|
+|AMPE   |    0.0412387|    2|
 |LYRA   |    0.0355872|    2|
 |BNGO   |    0.0270833|    7|
 |BTAI   |    0.0216507|    1|
@@ -136,7 +137,10 @@ Percent of original price and number of entrants for each ticket for [Biopick202
 |CALA   |    0.0005515|    5|
 |CNSP   |    0.0003467|    1|
 |EVFM   |    0.0001673|    7|
+|THMO   |    0.0001015|    1|
 |SYRS   |    0.0000932|    1|
 |TRVN   |    0.0000758|    1|
+|EVLO   |    0.0000422|    1|
 |XXII   |    0.0000006|    2|
+|PBLA   |    0.0000001|    1|
 ![retvspicks](biopicks.png?raw=true)
