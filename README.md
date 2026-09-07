@@ -95,7 +95,6 @@ Percent of original price and number of entrants for each ticket for [Biopick202
 |DARE   |    4.5865140|    1|
 |EPGNF  |    4.5355536|    1|
 |ACET   |    4.4662817|    2|
-|CTSO   |    4.1816009|    1|
 |SYBX   |    3.5454544|    2|
 |CYDY   |    3.3500839|    3|
 |DTIL   |    2.8392245|    1|
