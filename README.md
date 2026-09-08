@@ -35,6 +35,7 @@ Percent of original price and number of entrants for each ticket for [Biopick202
 |CLPT   |   91.9025703|    3|
 |MGTX   |   89.4397977|    1|
 |IMTX   |   86.9090947|    6|
+|CTSO   |   83.6559134|    1|
 |BMRN   |   77.0915370|    1|
 |PHAR   |   75.2680931|    2|
 |PLX    |   74.5810093|    2|
