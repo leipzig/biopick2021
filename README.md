@@ -125,7 +125,6 @@ Percent of original price and number of entrants for each ticket for [Biopick202
 |CRIS   |    0.0312846|   11|
 |BNGO   |    0.0282407|    7|
 |MBIO   |    0.0171139|    1|
-|BTAI   |    0.0061005|    1|
 |NCNA   |    0.0058150|    1|
 |SRNE   |    0.0056577|    3|
 |VINC   |    0.0037500|    2|
