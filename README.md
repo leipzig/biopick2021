@@ -120,12 +120,13 @@ Percent of original price and number of entrants for each ticket for [Biopick202
 |XAIR   |    0.1293970|   18|
 |SNGX   |    0.1141975|    2|
 |PCSA   |    0.0591252|    1|
+|AMPE   |    0.0412387|    2|
 |BNGO   |    0.0400463|    7|
 |LYRA   |    0.0355872|    2|
 |CRIS   |    0.0276855|   11|
 |MBIO   |    0.0182278|    1|
-|BTAI   |    0.0069378|    1|
 |NCNA   |    0.0059031|    1|
+|SRNE   |    0.0042433|    3|
 |VINC   |    0.0037500|    2|
 |HEPA   |    0.0035814|    6|
 |KALA   |    0.0031429|   10|
@@ -136,6 +137,7 @@ Percent of original price and number of entrants for each ticket for [Biopick202
 |SYRS   |    0.0003728|    1|
 |CNSP   |    0.0003208|    1|
 |EVFM   |    0.0001464|    7|
+|THMO   |    0.0001015|    1|
 |EVLO   |    0.0000422|    1|
 |PBLA   |    0.0000128|    1|
 |XXII   |    0.0000004|    2|
