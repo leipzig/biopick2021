@@ -75,7 +75,7 @@ Percent of original price and number of entrants for each ticket for [Biopick202
 |AVIR   |  12.1438929|    1|
 |ABEO   |  11.5976334|    2|
 |AMRN   |  11.4612325|    1|
-|NWBO   |  10.0308638|    9|
+|NWBO   |   9.8765430|    9|
 |XBIO   |   9.8604646|    2|
 |MREO   |   8.8983051|    8|
 |ARVN   |   8.8859734|    1|
@@ -120,15 +120,25 @@ Percent of original price and number of entrants for each ticket for [Biopick202
 |SNGX   |   0.1080247|    2|
 |XAIR   |   0.0967337|   18|
 |PCSA   |   0.0573152|    1|
+|AMPE   |   0.0412387|    2|
+|LYRA   |   0.0338078|    2|
 |BNGO   |   0.0312500|    7|
 |CRIS   |   0.0177187|   11|
 |MBIO   |   0.0139072|    1|
+|SRNE   |   0.0084866|    3|
 |VINC   |   0.0065000|    2|
-|HEPA   |   0.0055814|    6|
+|HEPA   |   0.0057674|    6|
+|TRVN   |   0.0050047|    1|
 |NCNA   |   0.0047577|    1|
 |KALA   |   0.0016327|   10|
 |GNPX   |   0.0014803|    3|
+|TTOO   |   0.0006015|    2|
+|SYRS   |   0.0003728|    1|
 |CNSP   |   0.0003258|    1|
-|EVFM   |   0.0001569|    7|
+|CALA   |   0.0001838|    5|
+|EVFM   |   0.0001673|    7|
+|THMO   |   0.0001015|    1|
+|EVLO   |   0.0000844|    1|
+|PBLA   |   0.0000035|    1|
 |XXII   |   0.0000001|    2|
 ![retvspicks](biopicks.png?raw=true)
