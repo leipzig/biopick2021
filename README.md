@@ -31,6 +31,7 @@ Percent of original price and number of entrants for each ticket for [Biopick202
 |PLX    |   85.1955312|    2|
 |PHAR   |   84.4504043|    2|
 |SLN    |   82.6249997|    1|
+|ACHV   |   80.0000012|    2|
 |RCUS   |   66.6284419|    1|
 |BMRN   |   66.3151767|    1|
 |QURE   |   64.7714923|    1|
@@ -123,13 +124,13 @@ Percent of original price and number of entrants for each ticket for [Biopick202
 |BNGO   |    0.0231481|    7|
 |MBIO   |    0.0142110|    1|
 |CRIS   |    0.0124585|   11|
+|KPTI   |    0.0098503|    9|
 |TTOO   |    0.0075188|    2|
 |HEPA   |    0.0053023|    6|
 |SRNE   |    0.0042433|    3|
 |NCNA   |    0.0041101|    1|
 |VINC   |    0.0037500|    2|
 |GNPX   |    0.0011446|    3|
-|KALA   |    0.0008105|   10|
 |CALA   |    0.0005515|    5|
 |CNSP   |    0.0001814|    1|
 |EVFM   |    0.0001255|    7|
