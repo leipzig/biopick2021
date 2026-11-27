@@ -68,8 +68,8 @@ Percent of original price and number of entrants for each ticket for [Biopick202
 |ELDN   |   13.1164378|    2|
 |ATNM   |   12.0865136|    7|
 |ALT    |   11.4083402|    2|
+|NWBO   |   11.1111115|    9|
 |AMRN   |   11.0834988|    1|
-|NWBO   |   10.9320989|    9|
 |MGNX   |   10.6306298|    1|
 |ANVS   |   10.4294486|    8|
 |AVIR   |    9.3674560|    1|
@@ -87,9 +87,9 @@ Percent of original price and number of entrants for each ticket for [Biopick202
 |EPGNF  |    4.5355536|    1|
 |SCYX   |    4.4630403|    1|
 |BYSI   |    3.8651316|    1|
-|CYDY   |    3.5829147|    3|
+|PYNKF  |    3.5897435|    2|
 |EYPT   |    3.5516092|    1|
-|PYNKF  |    3.4153847|    2|
+|CYDY   |    3.5175880|    3|
 |CBIO   |    3.4048257|    1|
 |DTIL   |    3.1014822|    1|
 |DARE   |    3.0279898|    1|
@@ -104,7 +104,7 @@ Percent of original price and number of entrants for each ticket for [Biopick202
 |TRIB   |    0.9732225|    1|
 |BLRX   |    0.9489796|    3|
 |EVGN   |    0.5686274|    1|
-|RAFA   |    0.5125000|    1|
+|RAFA   |    0.5000000|    1|
 |NNOX   |    0.4155730|    1|
 |CANF   |    0.4005525|    2|
 |ALGS   |    0.3354360|    2|
@@ -118,14 +118,24 @@ Percent of original price and number of entrants for each ticket for [Biopick202
 |SNGX   |    0.0771605|    2|
 |XAIR   |    0.0536013|   18|
 |PCSA   |    0.0425339|    1|
+|AMPE   |    0.0412387|    2|
 |BNGO   |    0.0194444|    7|
 |KALA   |    0.0162682|   10|
 |CRIS   |    0.0096899|   11|
 |MBIO   |    0.0086076|    1|
+|LYRA   |    0.0053381|    2|
+|SRNE   |    0.0042433|    3|
 |HEPA   |    0.0041860|    6|
 |VINC   |    0.0040000|    2|
 |NCNA   |    0.0034009|    1|
 |GNPX   |    0.0008144|    3|
+|TTOO   |    0.0004511|    2|
 |CNSP   |    0.0002762|    1|
+|CALA   |    0.0001838|    5|
+|THMO   |    0.0001015|    1|
+|SYRS   |    0.0000932|    1|
+|EVLO   |    0.0000844|    1|
+|TRVN   |    0.0000379|    1|
+|PBLA   |    0.0000001|    1|
 |XXII   |    0.0000000|    2|
 ![retvspicks](biopicks.png?raw=true)
